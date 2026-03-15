@@ -1,0 +1,9 @@
+{
+    "rss_feeds": [
+        "https://lobste.rs/rss",
+        "https://lobste.rs/t/erlang.rss",
+        "https://lobste.rs/t/linux.rss",
+        "https://lobste.rs/t/security.rss",
+        "https://lobste.rs/t/programming.rss"
+    ]
+}

@@ -1,0 +1,15 @@
+{application, lobste_rs_rss_filter, [
+    {description, "rss_filter example for lobste.rs"},
+    {vsn, "0.1.0"},
+    {registered, []},
+    {mod, {lobste_rs_rss_filter_app, []}},
+    {applications, [
+        kernel,
+        stdlib,
+        rss_filter
+    ]},
+    {env, []},
+    {modules, []},
+    {licenses, ["Apache-2.0"]},
+    {links, [{"GitHub", "https://github.com/EmergenceSystem/lobste.rs_rss_filter"}]}
+]}.
